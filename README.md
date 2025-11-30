@@ -23,7 +23,6 @@ irm https://getluxy.net/get | iex
 Luxy is currently in beta. Even though it has been tested extensively, bugs may still exist.
 Back up your system before applying tweaks, and report any issues you encounter.
 
-<div align="center"> <h3>🚀 Features</h3> <ul align="left"> <li>📈 Apply performance tweaks to speed up your system</li> <li>🗑️ Clean temporary files and Windows junk</li> <li>🎛️ Install apps using built-in Winget integration</li> <li>📁 Backup & revert any tweak you apply</li> <li>⚙️ View system information in one place</li> </ul> </div>
 
 👥 Contributing
 Adding New Tweaks
